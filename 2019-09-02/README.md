@@ -23,3 +23,5 @@
 * 部署Vue项目
     + Vue-cli3 TypeScript
     + Eslint
+    + vue-video-player 实现视频播放
+    + vue-i18n 国际化配置
